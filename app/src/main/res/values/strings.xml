@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="internet">No internet connection.Please try again</string>
+    <string name="githublink">GithubLink</string>
+    <string name="username">Username</string>
+    <string name="users">users</string>
+</resources>
